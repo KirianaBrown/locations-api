@@ -1,0 +1,23 @@
+{
+    "name": "locations-api",
+    "description": "Locations API - MOCK json-server API",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "json-server": "^0.17.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KirianaBrown/locations-api.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/KirianaBrown/locations-api/issues"
+    },
+    "homepage": "https://github.com/KirianaBrown/locations-api#readme"
+}

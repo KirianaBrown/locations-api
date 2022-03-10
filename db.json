@@ -1,0 +1,3387 @@
+{
+    "items": [{
+            "eventId": "a0l4a0000006ua4AAA",
+            "eventName": "Family Bar and Club Auckland CBD",
+            "startDateTime": "2022-01-15T08:30:00.000Z",
+            "endDateTime": "2022-01-15T11:00:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-19T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.857779",
+                "longitude": "174.758475",
+                "suburb": "Auckland Central",
+                "city": "Auckland",
+                "address": "270 Karangahape Road, Auckland Central, Auckland 1010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006uVYAAY",
+            "eventName": "Our House Rotorua",
+            "startDateTime": "2022-01-17T04:30:00.000Z",
+            "endDateTime": "2022-01-17T06:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-19T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-38.133449",
+                "longitude": "176.25177",
+                "suburb": "",
+                "city": "Rotorua",
+                "address": "1111 Tutanekai Street, Rotorua 3010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006uSjAAI",
+            "eventName": "Ara-Tai Cafe Half Moon Bay *Inside Seated Customers*",
+            "startDateTime": "2022-01-17T23:30:00.000Z",
+            "endDateTime": "2022-01-18T01:00:00.000Z",
+            "publicAdvice": "This is linked to an Omicron case. You're a CLOSE contact if you were seated INSIDE. Self-isolate, test immediately and on day 5 after you were exposed at this location. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-19T04:00:00.000Z",
+            "updatedAt": "2022-01-19T21:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.881595",
+                "longitude": "174.901172",
+                "suburb": "Half Moon Bay",
+                "city": "Auckland",
+                "address": "4/1 Ara Tai, Half Moon Bay, Auckland 2012"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v1BAAQ",
+            "eventName": "Postie Palmerston North",
+            "startDateTime": "2022-01-18T22:15:00.000Z",
+            "endDateTime": "2022-01-18T22:45:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-19T23:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.351068",
+                "longitude": "175.607565",
+                "suburb": "",
+                "city": "Palmerston North",
+                "address": "Shop 1A 210-246 Rangitikei Street, Palmerston North 4410"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v1VAAQ",
+            "eventName": "eSANZ Milson",
+            "startDateTime": "2022-01-18T01:15:00.000Z",
+            "endDateTime": "2022-01-18T01:30:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-19T23:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.331164",
+                "longitude": "175.615179",
+                "suburb": "Milson",
+                "city": "Palmerston North",
+                "address": "73 Milson Line, Milson, Palmerston North 4414"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v1QAAQ",
+            "eventName": "Bunnings Warehouse Palmerston North",
+            "startDateTime": "2022-01-17T21:30:00.000Z",
+            "endDateTime": "2022-01-17T21:48:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-20T00:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "Palmerston North",
+                "city": "Palmerston North",
+                "address": "Corner Tremaine Avenue & Railway Road, Palmerston North, Palmerston North 4410"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v2OAAQ",
+            "eventName": "Cafe 116 Terrace End",
+            "startDateTime": "2022-01-18T21:10:00.000Z",
+            "endDateTime": "2022-01-18T22:30:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-20T00:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-40.343098",
+                "longitude": "175.644779",
+                "suburb": "Terrace End",
+                "city": "Palmerston North",
+                "address": "116 Napier Road, Terrace End, Palmerston North 4410"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v2JAAQ",
+            "eventName": "Amare Safety Palmerston North",
+            "startDateTime": "2022-01-18T22:45:00.000Z",
+            "endDateTime": "2022-01-18T22:50:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-20T00:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.339681",
+                "longitude": "175.609467",
+                "suburb": "",
+                "city": "Palmerston North",
+                "address": "661 Tremaine Avenue, Palmerston North 4414"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v3MAAQ",
+            "eventName": "Repco Tremaine Ave Palmerston North",
+            "startDateTime": "2022-01-19T00:55:00.000Z",
+            "endDateTime": "2022-01-19T01:05:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-19T23:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.331655",
+                "longitude": "175.627354",
+                "suburb": "Roslyn",
+                "city": "Palmerston North",
+                "address": "915 Tremaine Avenue, Roslyn, Palmerston North 4414"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vC9AAI",
+            "eventName": "Bunnings Warehouse Palmerston North",
+            "startDateTime": "2022-01-17T03:54:00.000Z",
+            "endDateTime": "2022-01-17T04:05:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-20T00:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "Palmerston North",
+                "city": "Palmerston North",
+                "address": "Corner Tremaine Avenue & Railway Road, Palmerston North, Palmerston North 4410"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vCxAAI",
+            "eventName": "Rise n Shine Café Paerata",
+            "startDateTime": "2022-01-15T22:15:00.000Z",
+            "endDateTime": "2022-01-16T00:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-21T20:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.144691",
+                "longitude": "174.888052",
+                "suburb": "Paerata",
+                "city": "Pukekohe",
+                "address": "16 Jonah Lomu Drive, Paerata, Pukekohe 2676"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vPDAAY",
+            "eventName": "MITRE 10 Mega Mt Wellington",
+            "startDateTime": "2022-01-18T18:30:00.000Z",
+            "endDateTime": "2022-01-18T23:30:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T04:00:00.000Z",
+            "updatedAt": "2022-01-27T23:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.891152",
+                "longitude": "174.834619",
+                "suburb": "Mount Wellington",
+                "city": "Auckland",
+                "address": "72 Lunn Avenue, Mount Wellington, Auckland 1072"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vOoAAI",
+            "eventName": "Bus 195 New Lynn to Vulcan Lane City Centre [Stop 7049]",
+            "startDateTime": "2022-01-16T19:45:00.000Z",
+            "endDateTime": "2022-01-16T20:15:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-23T05:00:00.000Z",
+            "updatedAt": "2022-01-24T23:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vPwAAI",
+            "eventName": "Mitre 10 MEGA Mt Wellington",
+            "startDateTime": "2022-01-17T19:20:00.000Z",
+            "endDateTime": "2022-01-18T06:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T04:00:00.000Z",
+            "updatedAt": "2022-01-27T23:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.891152",
+                "longitude": "174.834619",
+                "suburb": "Mount Wellington",
+                "city": "Auckland",
+                "address": "72 Lunn Avenue, Mount Wellington, Auckland 1072"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vNqAAI",
+            "eventName": "SkyCity Auckland Casino (Main Gaming Floor)",
+            "startDateTime": "2022-01-17T11:23:04.000Z",
+            "endDateTime": "2022-01-17T13:23:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-20T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.848363",
+                "longitude": "174.762288",
+                "suburb": "Auckland Central",
+                "city": "Auckland",
+                "address": "72 Victoria Street West, Auckland Central, Auckland 1010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006txQAAQ",
+            "eventName": "HOYTS Cinema TE AWA Hamilton",
+            "startDateTime": "2022-01-15T21:30:00.000Z",
+            "endDateTime": "2022-01-16T00:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-18T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Hamilton",
+                "address": "Te Rapa Road & Wairere Drive, Hamilton 3200"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006ueVAAQ",
+            "eventName": "Greenview Motel Rotorua",
+            "startDateTime": "2022-01-14T18:00:00.000Z",
+            "endDateTime": "2022-01-15T21:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-20T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-38.160316",
+                "longitude": "176.254101",
+                "suburb": "Whakarewarewa",
+                "city": "Rotorua",
+                "address": "418 Fenton Street, Whakarewarewa, Rotorua 3010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006uj1AAA",
+            "eventName": "Ara-Tai Cafe Half Moon Bay *Outside Seated Customers*",
+            "startDateTime": "2022-01-17T23:30:00.000Z",
+            "endDateTime": "2022-01-18T01:00:00.000Z",
+            "publicAdvice": "This is linked to an Omicron case. You're a CLOSE contact if you were seated OUTSIDE. Self-isolate, test immediately and on day 5 after you were exposed at this location. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-19T04:00:00.000Z",
+            "updatedAt": "2022-01-20T02:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.881595",
+                "longitude": "174.901172",
+                "suburb": "Half Moon Bay",
+                "city": "Auckland",
+                "address": "4/1 Ara Tai, Half Moon Bay, Auckland 2012"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v1uAAA",
+            "eventName": "Steelmasters Palmerston North",
+            "startDateTime": "2022-01-18T22:59:00.000Z",
+            "endDateTime": "2022-01-18T23:04:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-20T00:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.339978",
+                "longitude": "175.609558",
+                "suburb": "Papaioea",
+                "city": "Palmerston North",
+                "address": "676 Tremaine Avenue, Papaioea, Palmerston North 4414"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v1fAAA",
+            "eventName": "Steelmasters Palmerston North",
+            "startDateTime": "2022-01-17T02:10:00.000Z",
+            "endDateTime": "2022-01-17T02:28:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-19T23:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.339978",
+                "longitude": "175.609558",
+                "suburb": "Papaioea",
+                "city": "Palmerston North",
+                "address": "676 Tremaine Avenue, Papaioea, Palmerston North 4414"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v1kAAA",
+            "eventName": "Manawatu Locksmith Palmerston North",
+            "startDateTime": "2022-01-18T22:07:00.000Z",
+            "endDateTime": "2022-01-18T22:12:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-20T00:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.353763",
+                "longitude": "175.614797",
+                "suburb": "Palmerston North",
+                "city": "Palmerston North",
+                "address": "50A Princess Street, Palmerston North, Palmerston North 4410"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v37AAA",
+            "eventName": "Repco Tremaine Ave Palmerston North",
+            "startDateTime": "2022-01-17T21:20:00.000Z",
+            "endDateTime": "2022-01-17T21:30:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-19T23:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.331655",
+                "longitude": "175.627354",
+                "suburb": "Roslyn",
+                "city": "Palmerston North",
+                "address": "915 Tremaine Avenue, Roslyn, Palmerston North 4414"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v2iAAA",
+            "eventName": "Repco Tremaine Ave Palmerston North",
+            "startDateTime": "2022-01-17T02:55:00.000Z",
+            "endDateTime": "2022-01-17T03:35:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-19T23:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.331655",
+                "longitude": "175.627354",
+                "suburb": "Roslyn",
+                "city": "Palmerston North",
+                "address": "915 Tremaine Avenue, Roslyn, Palmerston North 4414"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v9yAAA",
+            "eventName": "Amare Safety Palmerston North",
+            "startDateTime": "2022-01-17T02:00:00.000Z",
+            "endDateTime": "2022-01-17T02:10:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-20T00:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.339681",
+                "longitude": "175.609467",
+                "suburb": "",
+                "city": "Palmerston North",
+                "address": "661 Tremaine Avenue, Palmerston North 4414"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006v7xAAA",
+            "eventName": "Kasper's Sports Bar (Gaming Room) Rotorua",
+            "startDateTime": "2022-01-18T05:30:00.000Z",
+            "endDateTime": "2022-01-18T07:00:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-20T04:00:00.000Z",
+            "updatedAt": "2022-01-21T22:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-38.139415",
+                "longitude": "176.251747",
+                "suburb": "",
+                "city": "Rotorua",
+                "address": "1302 Tutanekai Street, Rotorua 3010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vNWAAY",
+            "eventName": "Gengis Khan Henderson",
+            "startDateTime": "2022-01-17T06:10:00.000Z",
+            "endDateTime": "2022-01-17T08:15:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-20T20:00:00.000Z",
+            "updatedAt": "2022-01-20T22:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.86043",
+                "longitude": "174.630297",
+                "suburb": "Henderson",
+                "city": "Auckland",
+                "address": "199B Lincoln Road, Henderson, Auckland 0610"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vS7AAI",
+            "eventName": "MITRE 10 Mega Mt Wellington",
+            "startDateTime": "2022-01-16T21:00:00.000Z",
+            "endDateTime": "2022-01-17T05:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T23:00:00.000Z",
+            "updatedAt": "2022-01-27T23:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.891152",
+                "longitude": "174.834619",
+                "suburb": "Mount Wellington",
+                "city": "Auckland",
+                "address": "72 Lunn Avenue, Mount Wellington, Auckland 1072"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vlFAAQ",
+            "eventName": "New World Broadway Palmerston North",
+            "startDateTime": "2022-01-17T22:00:00.000Z",
+            "endDateTime": "2022-01-17T23:30:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-20T22:00:00.000Z",
+            "updatedAt": "2022-01-21T00:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "Papaioea",
+                "city": "Palmerston North",
+                "address": "Corner Broadway Ave and Albert St, Papaioea, Palmerston North 4410"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vQBAAY",
+            "eventName": "Bus 133 Henderson [Stop 5112] to City Centre",
+            "startDateTime": "2022-01-16T19:15:00.000Z",
+            "endDateTime": "2022-01-16T19:45:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-23T05:00:00.000Z",
+            "updatedAt": "2022-01-24T23:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vnzAAA",
+            "eventName": "Flight NZ5083 Auckland - Nelson",
+            "startDateTime": "2022-01-16T04:20:00.000Z",
+            "endDateTime": "2022-01-16T05:50:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-22T08:00:00.000Z",
+            "updatedAt": "2022-01-23T02:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Nelson",
+                "address": "Nelson"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vskAAA",
+            "eventName": "Anzor Fasteners Palmerston North",
+            "startDateTime": "2022-01-18T23:05:00.000Z",
+            "endDateTime": "2022-01-18T23:15:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-21T00:00:00.000Z",
+            "updatedAt": "2022-01-21T01:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Palmerston North",
+                "address": "681 Tremaine Avenue, Palmerston North 4414"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vrXAAQ",
+            "eventName": "PAK'nSAVE Manukau",
+            "startDateTime": "2022-01-19T06:58:23.000Z",
+            "endDateTime": "2022-01-19T07:30:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-21T05:00:00.000Z",
+            "updatedAt": "2022-01-22T04:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.987668",
+                "longitude": "174.880064",
+                "suburb": "Manukau",
+                "city": "Auckland",
+                "address": "6 Cavendish Drive, Manukau, Auckland 2104"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006w55AAA",
+            "eventName": "Repco Motueka",
+            "startDateTime": "2022-01-19T03:24:00.000Z",
+            "endDateTime": "2022-01-19T04:00:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-22T02:00:00.000Z",
+            "updatedAt": "2022-01-23T02:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.124031",
+                "longitude": "173.010223",
+                "suburb": "",
+                "city": "Motueka",
+                "address": "400 High Street, Motueka 7120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006w6DAAQ",
+            "eventName": "Countdown Motueka",
+            "startDateTime": "2022-01-19T03:51:00.000Z",
+            "endDateTime": "2022-01-19T04:50:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-22T01:00:00.000Z",
+            "updatedAt": "2022-01-23T02:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.109724",
+                "longitude": "173.010903",
+                "suburb": "",
+                "city": "Motueka",
+                "address": "108 High Street, Motueka 7120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vnkAAA",
+            "eventName": "Anzor Fasteners Palmerston North",
+            "startDateTime": "2022-01-17T02:20:00.000Z",
+            "endDateTime": "2022-01-17T02:29:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-21T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Palmerston North",
+                "address": "681 Tremaine Avenue, Palmerston North 4414"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006vrSAAQ",
+            "eventName": "Chemist Warehouse Westfield Manukau",
+            "startDateTime": "2022-01-19T07:40:26.000Z",
+            "endDateTime": "2022-01-19T08:00:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-21T04:00:00.000Z",
+            "updatedAt": "2022-01-22T04:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.992617",
+                "longitude": "174.879786",
+                "suburb": "Manukau",
+                "city": "Auckland",
+                "address": "5 Putney Way, Manukau, Auckland 2104"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006w0yAAA",
+            "eventName": "Sky Tower Auckland",
+            "startDateTime": "2022-01-15T21:00:00.000Z",
+            "endDateTime": "2022-01-15T22:00:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-22T05:00:00.000Z",
+            "updatedAt": "2022-01-23T04:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "Auckland Central",
+                "city": "Auckland",
+                "address": "Corner of Victoria Street West and Federal Street, Auckland Central, Auckland 1010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006w2LAAQ",
+            "eventName": "Rainbows End Manukau",
+            "startDateTime": "2022-01-16T00:00:00.000Z",
+            "endDateTime": "2022-01-16T02:30:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-24T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.99411",
+                "longitude": "174.884295",
+                "suburb": "Manukau",
+                "city": "Auckland",
+                "address": "2 Clist Crescent, Manukau, Auckland 2104"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006w39AAA",
+            "eventName": "New World Motueka",
+            "startDateTime": "2022-01-18T03:00:00.000Z",
+            "endDateTime": "2022-01-18T03:31:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-22T00:00:00.000Z",
+            "updatedAt": "2022-01-23T02:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.11459",
+                "longitude": "173.011195",
+                "suburb": "",
+                "city": "Motueka",
+                "address": "271 High Street, Motueka 7120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006w76AAA",
+            "eventName": "New World Motueka",
+            "startDateTime": "2022-01-20T03:34:00.000Z",
+            "endDateTime": "2022-01-20T04:30:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-22T02:00:00.000Z",
+            "updatedAt": "2022-01-23T02:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.11459",
+                "longitude": "173.011195",
+                "suburb": "",
+                "city": "Motueka",
+                "address": "271 High Street, Motueka 7120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wYNAAY",
+            "eventName": "Flight NZ5080 Nelson - Auckland",
+            "startDateTime": "2022-01-19T03:00:00.000Z",
+            "endDateTime": "2022-01-19T04:30:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-22T02:00:00.000Z",
+            "updatedAt": "2022-01-23T05:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wYTAAY",
+            "eventName": "Flight NZ5049 Auckland-New Plymouth",
+            "startDateTime": "2022-01-19T06:50:00.000Z",
+            "endDateTime": "2022-01-19T07:30:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-22T02:00:00.000Z",
+            "updatedAt": "2022-01-23T02:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "New Plymouth",
+                "address": "New Plymouth"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wcjAAA",
+            "eventName": "Shuttle Bus Transfer from Auckland Domestic Airport to Park & Ride",
+            "startDateTime": "2022-01-20T02:00:00.000Z",
+            "endDateTime": "2022-01-20T02:10:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-22T03:00:00.000Z",
+            "updatedAt": "2022-01-23T22:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wceAAA",
+            "eventName": "Shuttle Bus Transfer from Park & Ride to Auckland Domestic Airport",
+            "startDateTime": "2022-01-19T00:00:00.000Z",
+            "endDateTime": "2022-01-19T00:10:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-22T03:00:00.000Z",
+            "updatedAt": "2022-01-23T22:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wZQAAY",
+            "eventName": "Ocean Spa Napier",
+            "startDateTime": "2022-01-18T04:45:00.000Z",
+            "endDateTime": "2022-01-18T07:45:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-21T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-39.486903",
+                "longitude": "176.919861",
+                "suburb": "Napier South",
+                "city": "Napier",
+                "address": "42 Marine Parade, Napier South, Napier 4110"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wYhAAI",
+            "eventName": "Flight NZ5042 New Plymouth-Auckland",
+            "startDateTime": "2022-01-20T00:50:00.000Z",
+            "endDateTime": "2022-01-20T01:45:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-22T02:00:00.000Z",
+            "updatedAt": "2022-01-23T02:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wY8AAI",
+            "eventName": "Flight NZ5077 Auckland-Nelson",
+            "startDateTime": "2022-01-19T01:00:00.000Z",
+            "endDateTime": "2022-01-19T02:30:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-22T02:00:00.000Z",
+            "updatedAt": "2022-01-23T02:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Nelson",
+                "address": "Nelson"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006waYAAQ",
+            "eventName": "KFC Napier",
+            "startDateTime": "2022-01-18T07:45:00.000Z",
+            "endDateTime": "2022-01-18T09:15:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-22T00:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-39.492532",
+                "longitude": "176.912542",
+                "suburb": "Napier South",
+                "city": "Napier",
+                "address": "251 Dickens Street, Napier South, Napier 4110"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wc5AAA",
+            "eventName": "Selwyn Tavern Selwyn Heights",
+            "startDateTime": "2022-01-21T00:00:00.000Z",
+            "endDateTime": "2022-01-21T08:00:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-22T04:00:00.000Z",
+            "updatedAt": "2022-01-22T05:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-38.117438",
+                "longitude": "176.222748",
+                "suburb": "Selwyn Heights",
+                "city": "Rotorua",
+                "address": "14 Kokako Street, Selwyn Heights, Rotorua 3015"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wbWAAQ",
+            "eventName": "Sand Dunz Cafe Muriwai",
+            "startDateTime": "2022-01-18T02:00:00.000Z",
+            "endDateTime": "2022-01-18T02:30:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-22T03:00:00.000Z",
+            "updatedAt": "2022-01-24T01:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.829558",
+                "longitude": "174.429259",
+                "suburb": "",
+                "city": "Waimauku",
+                "address": "455 Motutara Road, Waimauku 0881"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wicAAA",
+            "eventName": "Nelson Airport Nelson",
+            "startDateTime": "2022-01-16T05:50:00.000Z",
+            "endDateTime": "2022-01-16T06:10:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-22T04:00:00.000Z",
+            "updatedAt": "2022-01-23T02:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.299646",
+                "longitude": "173.227543",
+                "suburb": "Nelson Airport",
+                "city": "Nelson",
+                "address": "1 Trent Drive, Nelson Airport, Nelson 7011"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006woVAAQ",
+            "eventName": "Domestic Regional Departure Terminal Auckland Airport",
+            "startDateTime": "2022-01-16T02:45:00.000Z",
+            "endDateTime": "2022-01-16T04:30:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-23T02:00:00.000Z",
+            "updatedAt": "2022-01-23T05:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-37.005779",
+                "longitude": "174.79069",
+                "suburb": "Auckland Airport",
+                "city": "Auckland",
+                "address": "1 Andrew McKee Avenue, Auckland Airport, Auckland 2022"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wrKAAQ",
+            "eventName": "Bus 20 Kingsland Ave [Stop 8213] to Beaumont Street [Stop 1304]",
+            "startDateTime": "2022-01-18T20:00:00.000Z",
+            "endDateTime": "2022-01-18T20:30:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-23T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006x1zAAA",
+            "eventName": "Kwality Mini Bazaar Takanini",
+            "startDateTime": "2022-01-20T05:00:00.000Z",
+            "endDateTime": "2022-01-20T06:00:00.000Z",
+            "publicAdvice": "This is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-22T23:00:00.000Z",
+            "updatedAt": "2022-01-23T02:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.031225",
+                "longitude": "174.90456",
+                "suburb": "Manurewa",
+                "city": "Auckland",
+                "address": "305 Great South Road, Manurewa, Auckland 2102"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006x0NAAQ",
+            "eventName": "Summerset by the Park Flat Bush",
+            "startDateTime": "2022-01-18T20:00:00.000Z",
+            "endDateTime": "2022-01-19T03:30:00.000Z",
+            "publicAdvice": "This is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-23T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.972207",
+                "longitude": "174.905536",
+                "suburb": "Flat Bush",
+                "city": "Auckland",
+                "address": "7 Flat Bush School Road, Flat Bush, Auckland 2019"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006x0XAAQ",
+            "eventName": "Summerset by the Park Flat Bush",
+            "startDateTime": "2022-01-20T20:00:00.000Z",
+            "endDateTime": "2022-01-21T03:00:00.000Z",
+            "publicAdvice": "This is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-23T00:00:00.000Z",
+            "updatedAt": "2022-01-23T01:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.972207",
+                "longitude": "174.905536",
+                "suburb": "Flat Bush",
+                "city": "Auckland",
+                "address": "7 Flat Bush School Road, Flat Bush, Auckland 2019"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wn3AAA",
+            "eventName": "Shivani Restaurant Papatoetoe",
+            "startDateTime": "2022-01-15T23:00:00.000Z",
+            "endDateTime": "2022-01-16T00:00:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-24T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.969051",
+                "longitude": "174.859136",
+                "suburb": "Papatoetoe",
+                "city": "Auckland",
+                "address": "23 Eric Baker Place, Papatoetoe, Auckland 2025"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wqCAAQ",
+            "eventName": "Foodcourt Westfield Albany",
+            "startDateTime": "2022-01-19T22:00:00.000Z",
+            "endDateTime": "2022-01-20T07:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T04:00:00.000Z",
+            "updatedAt": "2022-01-27T23:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.726809",
+                "longitude": "174.705609",
+                "suburb": "Albany",
+                "city": "Auckland",
+                "address": "219 Don McKinnon Drive, Albany, Auckland 0632"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wqvAAA",
+            "eventName": "Bus 917 Glenfield Mall [Stop 3881] to Albany Mall [Stop 4260]",
+            "startDateTime": "2022-01-18T21:05:00.000Z",
+            "endDateTime": "2022-01-18T21:35:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-23T05:00:00.000Z",
+            "updatedAt": "2022-01-24T23:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006x0SAAQ",
+            "eventName": "Summerset by the Park Flat Bush",
+            "startDateTime": "2022-01-19T20:00:00.000Z",
+            "endDateTime": "2022-01-20T03:00:00.000Z",
+            "publicAdvice": "This is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-23T00:00:00.000Z",
+            "updatedAt": "2022-01-23T01:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.972207",
+                "longitude": "174.905536",
+                "suburb": "Flat Bush",
+                "city": "Auckland",
+                "address": "7 Flat Bush School Road, Flat Bush, Auckland 2019"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006x08AAA",
+            "eventName": "Summerset by the Park Flat Bush",
+            "startDateTime": "2022-01-17T20:00:00.000Z",
+            "endDateTime": "2022-01-18T02:00:00.000Z",
+            "publicAdvice": "This is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-23T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.972207",
+                "longitude": "174.905536",
+                "suburb": "Flat Bush",
+                "city": "Auckland",
+                "address": "7 Flat Bush School Road, Flat Bush, Auckland 2019"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xLaAAI",
+            "eventName": "Greenwood Health Motueka",
+            "startDateTime": "2022-01-20T22:40:00.000Z",
+            "endDateTime": "2022-01-21T00:45:00.000Z",
+            "publicAdvice": "This is linked to a suspected Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-23T22:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-41.109924",
+                "longitude": "173.012416",
+                "suburb": "",
+                "city": "Motueka",
+                "address": "20 Greenwood Street, Motueka 7120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xLVAAY",
+            "eventName": "Chartwell Bakery Manukau",
+            "startDateTime": "2022-01-19T20:55:00.000Z",
+            "endDateTime": "2022-01-19T21:00:00.000Z",
+            "publicAdvice": "RECATEGORISED: This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-24T04:00:00.000Z",
+            "updatedAt": "2022-01-24T22:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.988943",
+                "longitude": "174.878226",
+                "suburb": "Manukau",
+                "city": "Auckland",
+                "address": "9 Sharkey Street, Manukau, Auckland 2104"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xcIAAQ",
+            "eventName": "Bus 120 [Stop 5564] Don Buck Road to Constellation Station Auckland",
+            "startDateTime": "2022-01-19T17:30:00.000Z",
+            "endDateTime": "2022-01-19T18:30:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-23T22:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xhcAAA",
+            "eventName": "The Vic Devonport",
+            "startDateTime": "2022-01-20T06:50:09.000Z",
+            "endDateTime": "2022-01-20T09:10:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-24T20:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.829093",
+                "longitude": "174.798131",
+                "suburb": "Devonport",
+                "city": "Auckland",
+                "address": "48 Victoria Road, Devonport, Auckland 0624"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xo4AAA",
+            "eventName": "PAK'nSAVE Kaitaia",
+            "startDateTime": "2022-01-21T01:00:00.000Z",
+            "endDateTime": "2022-01-21T02:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-25T02:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-35.099334",
+                "longitude": "173.259152",
+                "suburb": "",
+                "city": "Kaitaia",
+                "address": "111 North Road, Kaitaia 0410"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xuHAAQ",
+            "eventName": "Countdown Dinsdale, Hamilton",
+            "startDateTime": "2022-01-20T23:45:00.000Z",
+            "endDateTime": "2022-01-21T00:45:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-24T22:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.79561",
+                "longitude": "175.24534",
+                "suburb": "Dinsdale",
+                "city": "Hamilton",
+                "address": "47 Whatawhata Road, Dinsdale, Hamilton 3204"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xveAAA",
+            "eventName": "Private event Pukekohe Indian Community Centre",
+            "startDateTime": "2022-01-16T05:45:00.000Z",
+            "endDateTime": "2022-01-16T09:45:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-24T05:00:00.000Z",
+            "updatedAt": "2022-01-25T00:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-37.210639",
+                "longitude": "174.892342",
+                "suburb": "Pukekohe",
+                "city": "Pukekohe",
+                "address": "55 Ward Street, Pukekohe, Pukekohe 2120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xxkAAA",
+            "eventName": "Countdown Motueka",
+            "startDateTime": "2022-01-21T07:42:00.000Z",
+            "endDateTime": "2022-01-21T08:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-24T20:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.109724",
+                "longitude": "173.010903",
+                "suburb": "Motueka",
+                "city": "Motueka",
+                "address": "108 High Street, Motueka, Motueka 7120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xyEAAQ",
+            "eventName": "Countdown Motueka",
+            "startDateTime": "2022-01-20T01:06:36.000Z",
+            "endDateTime": "2022-01-20T02:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-24T20:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.109724",
+                "longitude": "173.010903",
+                "suburb": "Motueka",
+                "city": "Motueka",
+                "address": "108 High Street, Motueka, Motueka 7120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wrFAAQ",
+            "eventName": "Bus 20 Beaumont Street [Stop 1303] to Kingsland Ave [Stop 8210]",
+            "startDateTime": "2022-01-18T05:00:00.000Z",
+            "endDateTime": "2022-01-18T05:30:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-23T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wq2AAA",
+            "eventName": "Foodcourt Westfield Albany",
+            "startDateTime": "2022-01-18T22:00:00.000Z",
+            "endDateTime": "2022-01-19T05:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T04:00:00.000Z",
+            "updatedAt": "2022-01-27T23:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.726809",
+                "longitude": "174.705609",
+                "suburb": "Albany",
+                "city": "Auckland",
+                "address": "219 Don McKinnon Drive, Albany, Auckland 0632"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wrPAAQ",
+            "eventName": "Bus 20 Beaumont Street [Stop 1303] to Kingsland Ave [Stop 8210]",
+            "startDateTime": "2022-01-19T05:00:00.000Z",
+            "endDateTime": "2022-01-19T05:30:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-23T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wrUAAQ",
+            "eventName": "Bus 917 Glenfield Mall [Stop 3881] to Albany Mall [Stop 4260]",
+            "startDateTime": "2022-01-19T21:05:00.000Z",
+            "endDateTime": "2022-01-19T21:35:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-23T05:00:00.000Z",
+            "updatedAt": "2022-01-24T22:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006wr5AAA",
+            "eventName": "Bus 20 Kingsland Ave [Stop 8213] to Beaumont Street [Stop 1304]",
+            "startDateTime": "2022-01-17T20:10:00.000Z",
+            "endDateTime": "2022-01-17T20:40:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-23T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xArAAI",
+            "eventName": "TWS Paradise Valley Speedway Rotorua",
+            "startDateTime": "2022-01-21T06:30:00.000Z",
+            "endDateTime": "2022-01-21T08:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-23T04:00:00.000Z",
+            "updatedAt": "2022-01-24T01:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-38.130188",
+                "longitude": "176.18323",
+                "suburb": "",
+                "city": "Rotorua",
+                "address": "105 Paradise Valley Road, Rotorua 3072"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xNCAAY",
+            "eventName": "Thirsty Liquor Papakura",
+            "startDateTime": "2022-01-20T05:00:00.000Z",
+            "endDateTime": "2022-01-20T05:15:00.000Z",
+            "publicAdvice": "RECATEGORISED: This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-24T04:00:00.000Z",
+            "updatedAt": "2022-01-24T22:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.062296",
+                "longitude": "174.943521",
+                "suburb": "",
+                "city": "Papakura",
+                "address": "129 O'Shannessey Street, Papakura 2110"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xKXAAY",
+            "eventName": "Countdown Motueka",
+            "startDateTime": "2022-01-18T06:00:00.000Z",
+            "endDateTime": "2022-01-18T07:00:00.000Z",
+            "publicAdvice": "This is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-23T21:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.109724",
+                "longitude": "173.010903",
+                "suburb": "",
+                "city": "Motueka",
+                "address": "108 High Street, Motueka 7120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xg5AAA",
+            "eventName": "Event Cinemas, Westfield Albany",
+            "startDateTime": "2022-01-21T01:30:54.000Z",
+            "endDateTime": "2022-01-21T04:10:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-24T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "Albany",
+                "city": "Auckland",
+                "address": "Westfield Albany219 Don McKinnon Drive, Albany, Auckland 0632"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xnuAAA",
+            "eventName": "The Warehouse Kaitaia",
+            "startDateTime": "2022-01-20T23:00:00.000Z",
+            "endDateTime": "2022-01-21T00:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-25T02:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-35.097987",
+                "longitude": "173.259362",
+                "suburb": "",
+                "city": "Kaitaia",
+                "address": "2 North Park Drive, Kaitaia 0410"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xnfAAA",
+            "eventName": "Nelson Airport Terminal Building",
+            "startDateTime": "2022-01-16T02:35:00.000Z",
+            "endDateTime": "2022-01-16T03:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-24T04:00:00.000Z",
+            "updatedAt": "2022-01-27T22:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.299646",
+                "longitude": "173.227543",
+                "suburb": "Nelson Airport",
+                "city": "Nelson",
+                "address": "1 Trent Drive, Nelson Airport, Nelson 7011"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xnvAAA",
+            "eventName": "Noel Leeming Kaitaia",
+            "startDateTime": "2022-01-21T00:00:00.000Z",
+            "endDateTime": "2022-01-21T01:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-25T02:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-35.097987",
+                "longitude": "173.259362",
+                "suburb": "",
+                "city": "Kaitaia",
+                "address": "2 North Park Drive, Kaitaia 0410"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xtsAAA",
+            "eventName": "PAK'nSAVE Clarence Street Hamilton Lake",
+            "startDateTime": "2022-01-20T00:15:00.000Z",
+            "endDateTime": "2022-01-20T01:15:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-24T22:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.794818",
+                "longitude": "175.282242",
+                "suburb": "Hamilton Lake",
+                "city": "Hamilton",
+                "address": "85 Clarence Street, Hamilton Lake, Hamilton 3204"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xt4AAA",
+            "eventName": "Countdown Central Mall, Rotorua",
+            "startDateTime": "2022-01-19T05:00:00.000Z",
+            "endDateTime": "2022-01-19T05:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-24T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Rotorua",
+                "address": "Victoria St, Rotorua 3010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xu7AAA",
+            "eventName": "Fresho Mount Roskill",
+            "startDateTime": "2022-01-20T23:00:00.000Z",
+            "endDateTime": "2022-01-21T05:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T03:00:00.000Z",
+            "updatedAt": "2022-01-27T23:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.896381",
+                "longitude": "174.744585",
+                "suburb": "Mount Roskill",
+                "city": "Auckland",
+                "address": "926 Dominion Road, Mount Roskill, Auckland 1041"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xuRAAQ",
+            "eventName": "Fresho Mount Roskill",
+            "startDateTime": "2022-01-21T19:00:00.000Z",
+            "endDateTime": "2022-01-21T23:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T03:00:00.000Z",
+            "updatedAt": "2022-01-27T23:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.896381",
+                "longitude": "174.744585",
+                "suburb": "Mount Roskill",
+                "city": "Auckland",
+                "address": "926 Dominion Road, Mount Roskill, Auckland 1041"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xuCAAQ",
+            "eventName": "Warehouse Hamilton City",
+            "startDateTime": "2022-01-19T22:45:00.000Z",
+            "endDateTime": "2022-01-20T00:15:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-25T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Hamilton",
+                "address": "Cnr Ward Street, Hamilton 3204"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xrcAAA",
+            "eventName": "Auckland Rose Park Hotel Parnell",
+            "startDateTime": "2022-01-15T03:30:00.000Z",
+            "endDateTime": "2022-01-15T21:00:00.000Z",
+            "publicAdvice": "This exposure is linked to an Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-24T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.851236",
+                "longitude": "174.785805",
+                "suburb": "Parnell",
+                "city": "Auckland",
+                "address": "92-102 Gladstone Road, Parnell, Auckland 1052"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xrhAAA",
+            "eventName": "Flight NZ5077 Auckland - Nelson",
+            "startDateTime": "2022-01-16T01:05:00.000Z",
+            "endDateTime": "2022-01-16T02:35:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-25T04:00:00.000Z",
+            "updatedAt": "2022-01-28T06:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Nelson",
+                "address": "Nelson"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xrwAAA",
+            "eventName": "Rotorua District Court Rotorua",
+            "startDateTime": "2022-01-19T21:30:00.000Z",
+            "endDateTime": "2022-01-20T03:15:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-38.13529",
+                "longitude": "176.2518",
+                "suburb": "",
+                "city": "Rotorua",
+                "address": "1162 Tutanekai Street, Rotorua 3010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xsuAAA",
+            "eventName": "Rotorua Kiwibank",
+            "startDateTime": "2022-01-17T02:00:00.000Z",
+            "endDateTime": "2022-01-17T02:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-24T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-38.136636",
+                "longitude": "176.251818",
+                "suburb": "",
+                "city": "Rotorua",
+                "address": "1218 Tutanekai Street, Rotorua 3010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006xz2AAA",
+            "eventName": "Life Pharmacy Motueka",
+            "startDateTime": "2022-01-20T00:40:00.000Z",
+            "endDateTime": "2022-01-20T01:10:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-25T00:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.111735",
+                "longitude": "173.011317",
+                "suburb": "",
+                "city": "Motueka",
+                "address": "179 High Street, Motueka 7120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006yLnAAI",
+            "eventName": "Wainui Marae Kaeo",
+            "startDateTime": "2022-01-20T22:00:00.000Z",
+            "endDateTime": "2022-01-23T02:00:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-27T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-35.020225",
+                "longitude": "173.853539",
+                "suburb": "RD 1",
+                "city": "Kaeo",
+                "address": "66A Wainui Valley Road, RD 1, Kaeo 0478"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006yUaAAI",
+            "eventName": "Wellington Domestic Airport Rongotai",
+            "startDateTime": "2022-01-23T17:30:00.000Z",
+            "endDateTime": "2022-01-23T20:40:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-25T22:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.334678",
+                "longitude": "174.809911",
+                "suburb": "Rongotai",
+                "city": "Wellington",
+                "address": "1 Stewart Duff Drive, Rongotai, Wellington 6022"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006yYIAAY",
+            "eventName": "Te Ngae Fish supply Ōwhata",
+            "startDateTime": "2022-01-22T02:00:00.000Z",
+            "endDateTime": "2022-01-22T02:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-38.133993",
+                "longitude": "176.295866",
+                "suburb": "Owhata",
+                "city": "Rotorua",
+                "address": "520 Te Ngae Road, Owhata, Rotorua 3010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006yadAAA",
+            "eventName": "Fenton Park Dairy",
+            "startDateTime": "2022-01-18T20:00:00.000Z",
+            "endDateTime": "2022-01-25T02:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-25T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-38.15449",
+                "longitude": "176.256381",
+                "suburb": "Fenton Park",
+                "city": "Rotorua",
+                "address": "15 Gibson Street, Fenton Park, Rotorua 3010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006yblAAA",
+            "eventName": "Bus 25B Lynfield Youth & Leisure Centre Mount Roskill [Stop 8913]  to The Civic Auckland Central [Stop 7086]",
+            "startDateTime": "2022-01-19T22:45:00.000Z",
+            "endDateTime": "2022-01-19T23:45:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-26T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006yc5AAA",
+            "eventName": "Bus 25L Balmoral Shops Mt Eden [Stop 8418] to Queen St [Stop 71319]",
+            "startDateTime": "2022-01-16T00:45:00.000Z",
+            "endDateTime": "2022-01-16T01:30:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-26T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006ydrAAA",
+            "eventName": "Chamate Restaurant Auckland Central",
+            "startDateTime": "2022-01-20T01:38:35.000Z",
+            "endDateTime": "2022-01-20T03:00:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-27T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.845796",
+                "longitude": "174.764469",
+                "suburb": "Auckland Central",
+                "city": "Auckland",
+                "address": "17 Swanson Street, Auckland Central, Auckland 1010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006ybvAAA",
+            "eventName": "Bus 25B The Civic [Stop 7086] to Lynfield Youth & Leisure Centre [Stop 8912]",
+            "startDateTime": "2022-01-20T05:30:00.000Z",
+            "endDateTime": "2022-01-20T06:15:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-26T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Auckland",
+                "address": "Auckland"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006yeGAAQ",
+            "eventName": "Te Purū Café & Bar Jet Park Hotel Rotorua",
+            "startDateTime": "2022-01-18T18:45:00.000Z",
+            "endDateTime": "2022-01-18T19:15:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-26T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-38.142837",
+                "longitude": "176.253518",
+                "suburb": "Victoria",
+                "city": "Rotorua",
+                "address": "237 Fenton Street, Victoria, Rotorua 3010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006yu5AAA",
+            "eventName": "Private Event Manukau Indian Association Diversity Center",
+            "startDateTime": "2022-01-21T06:00:00.000Z",
+            "endDateTime": "2022-01-21T09:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-27T00:00:00.000Z",
+            "updatedAt": "2022-01-27T23:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.973527",
+                "longitude": "174.865274",
+                "suburb": "Papatoetoe",
+                "city": "Auckland",
+                "address": "25 Tui Road, Papatoetoe, Auckland 2025"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006yxFAAQ",
+            "eventName": "True Woman's Fitness & Wellbeing Papatoetoe",
+            "startDateTime": "2022-01-23T17:15:00.000Z",
+            "endDateTime": "2022-01-23T18:15:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T05:00:00.000Z",
+            "updatedAt": "2022-01-27T23:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.987493",
+                "longitude": "174.87289",
+                "suburb": "Papatoetoe",
+                "city": "Auckland",
+                "address": "20 Lambie Drive, Papatoetoe, Auckland 2104"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006yxEAAQ",
+            "eventName": "True Woman's Fitness & Wellbeing Papatoetoe",
+            "startDateTime": "2022-01-22T23:30:00.000Z",
+            "endDateTime": "2022-01-23T00:45:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T05:00:00.000Z",
+            "updatedAt": "2022-01-27T23:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.987493",
+                "longitude": "174.87289",
+                "suburb": "Papatoetoe",
+                "city": "Auckland",
+                "address": "20 Lambie Drive, Papatoetoe, Auckland 2104"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z1pAAA",
+            "eventName": "Gurudwara Dukh Niwaran Sahib Papakura",
+            "startDateTime": "2022-01-22T21:30:00.000Z",
+            "endDateTime": "2022-01-22T23:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.062502",
+                "longitude": "174.943893",
+                "suburb": "Papakura",
+                "city": "Auckland",
+                "address": "7/46 Broadway, Papakura, Auckland 2110"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z32AAA",
+            "eventName": "Hotel St Moritz Queenstown",
+            "startDateTime": "2022-01-21T11:00:00.000Z",
+            "endDateTime": "2022-01-21T23:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T20:00:00.000Z",
+            "updatedAt": "2022-01-27T22:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-45.034204",
+                "longitude": "168.652971",
+                "suburb": "",
+                "city": "Queenstown",
+                "address": "10-18 Brunswick Street, Queenstown 9300"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z5SAAQ",
+            "eventName": "Ōtara Liquor Spot Ōtara",
+            "startDateTime": "2022-01-23T06:00:00.000Z",
+            "endDateTime": "2022-01-23T08:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.961169",
+                "longitude": "174.887378",
+                "suburb": "Ōtara",
+                "city": "Auckland",
+                "address": "271 East Tamaki Road, Ōtara, Auckland 2023"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zD7AAI",
+            "eventName": "Countdown Pukekohe",
+            "startDateTime": "2022-01-23T03:00:00.000Z",
+            "endDateTime": "2022-01-23T07:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T02:00:00.000Z",
+            "updatedAt": "2022-01-27T03:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "Pukekohe",
+                "city": "Auckland",
+                "address": "Corner Tobin Street & Seddon Lane, Pukekohe, Auckland 2120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006yrQAAQ",
+            "eventName": "Jetstar Check-In Wellington Domestic Airport",
+            "startDateTime": "2022-01-23T17:30:00.000Z",
+            "endDateTime": "2022-01-23T20:40:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-25T22:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.334678",
+                "longitude": "174.809911",
+                "suburb": "Rongotai",
+                "city": "Wellington",
+                "address": "1 Stewart Duff Drive, Rongotai, Wellington 6022"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006yzUAAQ",
+            "eventName": "Soundsplash Festival Hamilton",
+            "startDateTime": "2022-01-20T17:00:00.000Z",
+            "endDateTime": "2022-01-22T20:15:00.000Z",
+            "publicAdvice": "*UPDATE* All attendees are now advised to get a test immediately, if you haven’t already. Inform the testing centre you were at the festival. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T21:30:00.000Z",
+            "updatedAt": "2022-01-29T03:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.872918",
+                "longitude": "175.348221",
+                "suburb": "Ohaupo",
+                "city": "Hamilton",
+                "address": "125 Mystery Creek Road, Ohaupo, Hamilton 3881"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z1aAAA",
+            "eventName": "Satya Chai Lounge Sandringham",
+            "startDateTime": "2022-01-23T01:30:00.000Z",
+            "endDateTime": "2022-01-23T03:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T02:00:00.000Z",
+            "updatedAt": "2022-01-27T23:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.891447",
+                "longitude": "174.736239",
+                "suburb": "Sandringham",
+                "city": "Auckland",
+                "address": "515 Sandringham Road, Sandringham, Auckland 1025"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z3bAAA",
+            "eventName": "Queenstown Airport",
+            "startDateTime": "2022-01-22T01:15:00.000Z",
+            "endDateTime": "2022-01-22T02:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T20:00:00.000Z",
+            "updatedAt": "2022-01-28T06:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-45.02165",
+                "longitude": "168.73625",
+                "suburb": "Frankton",
+                "city": "Queenstown",
+                "address": "1 Sir Henry Wigley Drive, Frankton, Queenstown 9300"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z45AAA",
+            "eventName": "Auckland Domestic Airport Mangere",
+            "startDateTime": "2022-01-22T03:45:00.000Z",
+            "endDateTime": "2022-01-22T04:15:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.005779",
+                "longitude": "174.79069",
+                "suburb": "Auckland Airport",
+                "city": "Auckland",
+                "address": "Andrew McKee Avenue, Auckland Airport, Auckland 2022"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z95AAA",
+            "eventName": "Bowl and Social SkyCity Hamilton",
+            "startDateTime": "2022-01-22T06:40:59.000Z",
+            "endDateTime": "2022-01-22T08:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.787094",
+                "longitude": "175.28381",
+                "suburb": "Hamilton Central",
+                "city": "Hamilton",
+                "address": "340 Victoria Street, Hamilton Central, Hamilton 3204"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zNSAAY",
+            "eventName": "Pizza Hutt Flagstaff",
+            "startDateTime": "2022-01-23T04:45:00.000Z",
+            "endDateTime": "2022-01-23T10:15:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.738201",
+                "longitude": "175.253406",
+                "suburb": "Flagstaff",
+                "city": "Hamilton",
+                "address": "Shop 7 1158 River Road, Flagstaff, Hamilton 3210"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zOBAAY",
+            "eventName": "Alfie’s Cafe Rototuna",
+            "startDateTime": "2022-01-19T23:39:34.000Z",
+            "endDateTime": "2022-01-20T00:09:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-29T00:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.722661",
+                "longitude": "175.259205",
+                "suburb": "Rototuna North",
+                "city": "Hamilton",
+                "address": "1 North City Road, Rototuna North, Hamilton 3210"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zP9AAI",
+            "eventName": "Westlake Girls Uniform Shop Wairau Valley",
+            "startDateTime": "2022-01-21T22:12:30.000Z",
+            "endDateTime": "2022-01-21T23:15:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.771178",
+                "longitude": "174.736762",
+                "suburb": "Wairau Valley",
+                "city": "Auckland",
+                "address": "10/54 View Road, Wairau Valley, Auckland 0627"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zRjAAI",
+            "eventName": "CityFitness Fraser Cove",
+            "startDateTime": "2022-01-24T21:00:00.000Z",
+            "endDateTime": "2022-01-24T23:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-27T01:00:00.000Z",
+            "updatedAt": "2022-01-27T23:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-37.712739",
+                "longitude": "176.151128",
+                "suburb": "Tauranga South",
+                "city": "Tauranga",
+                "address": "249 Fraser Street, Tauranga South, Tauranga 3112"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zRZAAY",
+            "eventName": "CityFitness Fraser Cove",
+            "startDateTime": "2022-01-23T21:00:00.000Z",
+            "endDateTime": "2022-01-23T23:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-27T02:00:00.000Z",
+            "updatedAt": "2022-01-27T22:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-37.712739",
+                "longitude": "176.151128",
+                "suburb": "Tauranga South",
+                "city": "Tauranga",
+                "address": "249 Fraser Street, Tauranga South, Tauranga 3112"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zXcAAI",
+            "eventName": "Flight JQ287 Wellington - Christchurch",
+            "startDateTime": "2022-01-23T19:20:00.000Z",
+            "endDateTime": "2022-01-23T20:10:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-28T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zZxAAI",
+            "eventName": "Flight NZ5084 Nelson - Auckland",
+            "startDateTime": "2022-01-18T04:50:00.000Z",
+            "endDateTime": "2022-01-18T06:30:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-27T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zZYAAY",
+            "eventName": "Flight NZ5771 Napier - Christchurch",
+            "startDateTime": "2022-01-23T17:25:00.000Z",
+            "endDateTime": "2022-01-23T19:00:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-28T04:00:00.000Z",
+            "updatedAt": "2022-01-28T05:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Christchurch",
+                "address": "Christchurch"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zalAAA",
+            "eventName": "Flight NZ8087 Auckland - Nelson",
+            "startDateTime": "2022-01-23T07:10:00.000Z",
+            "endDateTime": "2022-01-23T08:30:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-27T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zj4AAA",
+            "eventName": "Christchurch Airport",
+            "startDateTime": "2022-01-24T04:00:00.000Z",
+            "endDateTime": "2022-01-24T04:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-43.488372",
+                "longitude": "172.540231",
+                "suburb": "Harewood",
+                "city": "Christchurch",
+                "address": "30 Durey Road, Harewood, Christchurch 8053"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006ziuAAA",
+            "eventName": "Labtest Greenlane Collection Centre Royal Oak",
+            "startDateTime": "2022-01-25T00:35:00.000Z",
+            "endDateTime": "2022-01-25T00:45:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T23:45:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.905762",
+                "longitude": "174.774443",
+                "suburb": "Royal Oak",
+                "city": "Auckland",
+                "address": "641 Manukau Road, Royal Oak, Auckland 1023"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zizAAA",
+            "eventName": "Krispy Kreme Drive Thru Manukau",
+            "startDateTime": "2022-01-23T01:30:00.000Z",
+            "endDateTime": "2022-01-23T01:45:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T21:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.989762",
+                "longitude": "174.879706",
+                "suburb": "Manukau",
+                "city": "Auckland",
+                "address": "3 Ronwood Avenue, Manukau, Auckland 2104"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006znfAAA",
+            "eventName": "Mokoia Community Swabbing Centre at Mokoia Intermediate Owhata",
+            "startDateTime": "2022-01-22T20:30:00.000Z",
+            "endDateTime": "2022-01-23T02:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-29T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-38.137644",
+                "longitude": "176.298168",
+                "suburb": "Owhata",
+                "city": "Rotorua",
+                "address": "29 Brent Road, Owhata, Rotorua 3010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zoJAAQ",
+            "eventName": "Reddy’s Minimart Motueka",
+            "startDateTime": "2022-01-25T00:00:00.000Z",
+            "endDateTime": "2022-01-25T00:30:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-28T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-41.109821",
+                "longitude": "173.011421",
+                "suburb": "",
+                "city": "Motueka",
+                "address": "113 High Street, Motueka 7120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zodAAA",
+            "eventName": "New World Motueka",
+            "startDateTime": "2022-01-25T01:00:00.000Z",
+            "endDateTime": "2022-01-25T02:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.11459",
+                "longitude": "173.011195",
+                "suburb": "",
+                "city": "Motueka",
+                "address": "271 High Street, Motueka 7120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zuqAAA",
+            "eventName": "Auckland Airport Regional Arrivals Terminal, Auckland",
+            "startDateTime": "2022-01-18T06:30:00.000Z",
+            "endDateTime": "2022-01-18T06:45:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T02:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.005779",
+                "longitude": "174.79069",
+                "suburb": "Auckland Airport",
+                "city": "Auckland",
+                "address": "1 Andrew McKee Avenue, Auckland Airport, Auckland 2022"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z5hAAA",
+            "eventName": "Ōtara Liquor Spot Ōtara",
+            "startDateTime": "2022-01-24T06:00:00.000Z",
+            "endDateTime": "2022-01-24T08:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.961169",
+                "longitude": "174.887378",
+                "suburb": "Ōtara",
+                "city": "Auckland",
+                "address": "271 East Tamaki Road, Ōtara, Auckland 2023"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z7TAAQ",
+            "eventName": "KFC Tauranga",
+            "startDateTime": "2022-01-20T04:00:00.000Z",
+            "endDateTime": "2022-01-20T09:16:00.000Z",
+            "publicAdvice": "This exposure is linked to a probable omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-26T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-37.695803",
+                "longitude": "176.16064",
+                "suburb": "",
+                "city": "Tauranga",
+                "address": "449 Cameron Road, Tauranga 3110"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z6VAAQ",
+            "eventName": "McDonald's Karaka",
+            "startDateTime": "2022-01-24T02:30:00.000Z",
+            "endDateTime": "2022-01-24T03:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-26T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.071746",
+                "longitude": "174.92634",
+                "suburb": "Karaka",
+                "city": "Papakura",
+                "address": "47 Harbourside Drive, Karaka, Papakura 2113"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z6fAAA",
+            "eventName": "Private Event Shri Ram Temple *LEVEL 2*",
+            "startDateTime": "2022-01-21T06:30:00.000Z",
+            "endDateTime": "2022-01-21T09:30:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-28T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.866658",
+                "longitude": "174.613261",
+                "suburb": "Henderson",
+                "city": "Auckland",
+                "address": "11 Brick Street, Henderson, Auckland 0610"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z9FAAQ",
+            "eventName": "Paasha Cafe & Mezze Bar Hamilton",
+            "startDateTime": "2022-01-22T08:00:00.000Z",
+            "endDateTime": "2022-01-22T09:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.790481",
+                "longitude": "175.283913",
+                "suburb": "Hamilton Central",
+                "city": "Hamilton",
+                "address": "7 Alexandra Street, Hamilton Central, Hamilton 3204"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006z7JAAQ",
+            "eventName": "Private event Mahatma Gandhi Centre Eden Terrace",
+            "startDateTime": "2022-01-22T03:00:00.000Z",
+            "endDateTime": "2022-01-22T10:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-27T21:00:00.000Z",
+            "updatedAt": "2022-01-28T06:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.867176",
+                "longitude": "174.756065",
+                "suburb": "Eden Terrace",
+                "city": "Auckland",
+                "address": "145 New North Road, Eden Terrace, Auckland 1021"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zD2AAI",
+            "eventName": "Countdown Pukekohe",
+            "startDateTime": "2022-01-24T03:00:00.000Z",
+            "endDateTime": "2022-01-24T07:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T02:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "Pukekohe",
+                "city": "Auckland",
+                "address": "Corner Tobin Street and Seddon Lane, Pukekohe, Auckland 2120"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zO6AAI",
+            "eventName": "Private Event New Zealand Sikh Society Temple Te Rapa",
+            "startDateTime": "2022-01-22T00:00:00.000Z",
+            "endDateTime": "2022-01-22T03:00:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-28T03:00:00.000Z",
+            "updatedAt": "2022-01-29T00:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-37.756173",
+                "longitude": "175.246798",
+                "suburb": "Te Rapa",
+                "city": "Hamilton",
+                "address": "6391 Te Rapa Road, Te Rapa, Hamilton 3200"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zO1AAI",
+            "eventName": "Private Event Hamilton Gardens Pavilion Hamilton",
+            "startDateTime": "2022-01-23T06:00:00.000Z",
+            "endDateTime": "2022-01-23T10:00:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-28T04:00:00.000Z",
+            "updatedAt": "2022-01-28T05:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-37.803371",
+                "longitude": "175.306313",
+                "suburb": "Hamilton East",
+                "city": "Hamilton",
+                "address": "18 Hungerford Crescent, Hamilton East, Hamilton 3216"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zRPAAY",
+            "eventName": "Unichem The Mall Pharmacy Rotorua Central",
+            "startDateTime": "2022-01-21T21:36:35.000Z",
+            "endDateTime": "2022-01-21T22:06:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-38.140039",
+                "longitude": "176.251578",
+                "suburb": "",
+                "city": "Rotorua",
+                "address": "1170 Amohau Street, Rotorua 3010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zSXAAY",
+            "eventName": "SkyCity Casino Auckland CBD",
+            "startDateTime": "2022-01-24T04:00:00.000Z",
+            "endDateTime": "2022-01-24T11:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.848363",
+                "longitude": "174.762288",
+                "suburb": "Auckland Central",
+                "city": "Auckland",
+                "address": "72 Victoria Street West, Auckland Central, Auckland 1010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zXXAAY",
+            "eventName": "McDonald's Rotorua",
+            "startDateTime": "2022-01-22T01:15:00.000Z",
+            "endDateTime": "2022-01-22T02:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "Rotorua",
+                "address": "1315 Fenton Street, Rotorua 3010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006ziVAAQ",
+            "eventName": "Labtests Collections Mt Wellington",
+            "startDateTime": "2022-01-24T20:41:04.000Z",
+            "endDateTime": "2022-01-24T21:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T23:45:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.913588",
+                "longitude": "174.845767",
+                "suburb": "Mount Wellington",
+                "city": "Auckland",
+                "address": "37 Carbine Road, Mount Wellington, Auckland 1060"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zi1AAA",
+            "eventName": "Sunglass Style Auckland Central",
+            "startDateTime": "2022-01-23T00:30:00.000Z",
+            "endDateTime": "2022-01-23T00:40:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T20:00:00.000Z",
+            "updatedAt": "2022-01-28T06:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.848037",
+                "longitude": "174.765815",
+                "suburb": "Auckland Central",
+                "city": "Auckland",
+                "address": "174 Queen Street, Auckland Central, Auckland 1010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006ziaAAA",
+            "eventName": "Gucci Auckland Central",
+            "startDateTime": "2022-01-23T00:44:31.000Z",
+            "endDateTime": "2022-01-23T01:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T21:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.845417",
+                "longitude": "174.766609",
+                "suburb": "Auckland Central",
+                "city": "Auckland",
+                "address": "48 Queen Street, Auckland Central, Auckland 1010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zgoAAA",
+            "eventName": "Foodcourt Auckland Airport Domestic Terminal",
+            "startDateTime": "2022-01-24T01:40:00.000Z",
+            "endDateTime": "2022-01-24T02:00:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-27T23:45:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-37.004049",
+                "longitude": "174.783292",
+                "suburb": "Auckland Airport",
+                "city": "Auckland",
+                "address": "1 Ray Emery Drive, Auckland Airport, Auckland 2022"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zhSAAQ",
+            "eventName": "Auckland Airport Domestic Terminal Māngere",
+            "startDateTime": "2022-01-24T02:00:00.000Z",
+            "endDateTime": "2022-01-24T03:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T20:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.005779",
+                "longitude": "174.79069",
+                "suburb": "Māngere",
+                "city": "Auckland",
+                "address": "Ray Emery Drive, Māngere, Auckland 2022"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zhrAAA",
+            "eventName": "Unichem Bairds Pharmacy Ōtara",
+            "startDateTime": "2022-01-24T08:45:00.000Z",
+            "endDateTime": "2022-01-24T10:00:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T20:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.962089",
+                "longitude": "174.873237",
+                "suburb": "Ōtara",
+                "city": "Auckland",
+                "address": "2/3 Watford Street, Ōtara, Auckland 2023"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zkMAAQ",
+            "eventName": "Fullers Waiheke Island Ferry Waiheke Island Auckland",
+            "startDateTime": "2022-01-24T23:00:00.000Z",
+            "endDateTime": "2022-01-24T23:35:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.780501",
+                "longitude": "174.993573",
+                "suburb": "Oneroa",
+                "city": "Waiheke Island",
+                "address": "1 Ocean View Road, Oneroa, Waiheke Island 1081"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zmmAAA",
+            "eventName": "Ferry Road Pharmacy Waltham",
+            "startDateTime": "2022-01-24T02:30:00.000Z",
+            "endDateTime": "2022-01-24T03:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T20:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-43.540384",
+                "longitude": "172.658534",
+                "suburb": "Waltham",
+                "city": "Christchurch",
+                "address": "244 Ferry Road, Waltham, Christchurch 8011"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zlFAAQ",
+            "eventName": "One3One Restaurant Cafe & Bar Paeroa",
+            "startDateTime": "2022-01-24T05:16:13.000Z",
+            "endDateTime": "2022-01-24T07:00:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-28T21:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-37.381765",
+                "longitude": "175.672224",
+                "suburb": "",
+                "city": "Paeroa",
+                "address": "131 Normanby Road, Paeroa 3600"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zx5AAA",
+            "eventName": "Nelson Airport Nelson",
+            "startDateTime": "2022-01-23T08:30:00.000Z",
+            "endDateTime": "2022-01-23T09:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-29T00:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.299646",
+                "longitude": "173.227543",
+                "suburb": "Nelson Airport",
+                "city": "Nelson",
+                "address": "1 Trent Drive, Nelson Airport, Nelson 7011"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070DOAAY",
+            "eventName": "Chemist Warehouse Bethlehem",
+            "startDateTime": "2022-01-23T22:03:10.000Z",
+            "endDateTime": "2022-01-23T22:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.692992",
+                "longitude": "176.109802",
+                "suburb": "Bethlehem",
+                "city": "Tauranga",
+                "address": "19 Bethlehem Road, Bethlehem, Tauranga 3110"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070FFAAY",
+            "eventName": "Elixir Espresso Middlemore Hospital",
+            "startDateTime": "2022-01-25T19:30:00.000Z",
+            "endDateTime": "2022-01-25T20:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.963977",
+                "longitude": "174.840341",
+                "suburb": "Mangere East",
+                "city": "Auckland",
+                "address": "100 Hospital Road, Mangere East, Auckland 2025"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070FZAAY",
+            "eventName": "Elixir Espresso Middlemore Hospital",
+            "startDateTime": "2022-01-26T19:00:00.000Z",
+            "endDateTime": "2022-01-26T20:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.963977",
+                "longitude": "174.840341",
+                "suburb": "Mangere East",
+                "city": "Auckland",
+                "address": "100 Hospital Road, Mangere East, Auckland 2025"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070FAAAY",
+            "eventName": "Elixir Espresso Middlemore Hospital",
+            "startDateTime": "2022-01-24T19:00:00.000Z",
+            "endDateTime": "2022-01-24T20:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.963977",
+                "longitude": "174.840341",
+                "suburb": "Mangere East",
+                "city": "Auckland",
+                "address": "100 Hospital Road, Mangere East, Auckland 2025"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zYfAAI",
+            "eventName": "Christchurch Airport",
+            "startDateTime": "2022-01-23T20:10:00.000Z",
+            "endDateTime": "2022-01-23T20:40:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-43.488372",
+                "longitude": "172.540231",
+                "suburb": "Christchurch Airport",
+                "city": "Christchurch",
+                "address": "30 Durey Road, Christchurch Airport, Christchurch 8053"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zbPAAQ",
+            "eventName": "Rebel Sports Manukau Supa Centre",
+            "startDateTime": "2022-01-24T03:30:00.000Z",
+            "endDateTime": "2022-01-24T03:45:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T02:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "Manukau city centre",
+                "city": "Auckland",
+                "address": "Manukau Supa Centa Cnr Cavendish &, Lambie Drive, Manukau city centre, Auckland 2104"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zhXAAQ",
+            "eventName": "ProHealth Pharmacy Papatoetoe",
+            "startDateTime": "2022-01-23T22:29:44.000Z",
+            "endDateTime": "2022-01-23T22:53:00.000Z",
+            "publicAdvice": "This exposure is linked to a suspected Omicron case. Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T20:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.970637",
+                "longitude": "174.861914",
+                "suburb": "Papatoetoe",
+                "city": "Auckland",
+                "address": "230 Great South Road, Papatoetoe, Auckland 2025"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zltAAA",
+            "eventName": "Fullers Waiheke Island Ferry Downtown Ferry Terminal Auckland",
+            "startDateTime": "2022-01-23T00:10:00.000Z",
+            "endDateTime": "2022-01-23T00:45:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-29T00:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.843026",
+                "longitude": "174.766969",
+                "suburb": "Auckland Central",
+                "city": "Auckland",
+                "address": "99 Quay Street, Auckland Central, Auckland 1010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zkRAAQ",
+            "eventName": "Polo in the Bay Mount Maunganui *ALL ATTENDEES*",
+            "startDateTime": "2022-01-21T23:57:26.000Z",
+            "endDateTime": "2022-01-22T05:15:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T23:45:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.684955",
+                "longitude": "176.227856",
+                "suburb": "RD 5",
+                "city": "Tauranga",
+                "address": "81 Truman Lane, RD 5, Tauranga 3175"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006znaAAA",
+            "eventName": "Ferry Road Pharmacy Waltham",
+            "startDateTime": "2022-01-26T19:45:00.000Z",
+            "endDateTime": "2022-01-26T19:55:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T20:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-43.540384",
+                "longitude": "172.658534",
+                "suburb": "Waltham",
+                "city": "Christchurch",
+                "address": "244 Ferry Road, Waltham, Christchurch 8011"
+            }
+        },
+        {
+            "eventId": "a0l4a0000006zuMAAQ",
+            "eventName": "Nelson Airport Nelson",
+            "startDateTime": "2022-01-18T04:00:00.000Z",
+            "endDateTime": "2022-01-18T04:50:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-29T00:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-41.299646",
+                "longitude": "173.227543",
+                "suburb": "Nelson Airport",
+                "city": "Nelson",
+                "address": "1 Trent Drive, Nelson Airport, Nelson 7011"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070AKAAY",
+            "eventName": "New World Hastings",
+            "startDateTime": "2022-01-23T07:50:57.000Z",
+            "endDateTime": "2022-01-23T08:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-39.645",
+                "longitude": "176.846784",
+                "suburb": "Hastings",
+                "city": "Hastings",
+                "address": "400 Heretaunga Street East, Hastings, Hastings 4122"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070BrAAI",
+            "eventName": "Cook Street Mini Mart Palmerston North",
+            "startDateTime": "2022-01-26T05:10:00.000Z",
+            "endDateTime": "2022-01-26T05:15:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T23:45:00.000Z",
+            "updatedAt": "2022-01-28T03:00:00.000Z",
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.353873",
+                "longitude": "175.615814",
+                "suburb": "",
+                "city": "Palmerston North",
+                "address": "537 Main Street, Palmerston North 4410"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070APAAY",
+            "eventName": "Hawkes Bay Airport",
+            "startDateTime": "2022-01-23T16:30:00.000Z",
+            "endDateTime": "2022-01-23T17:25:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-39.466501",
+                "longitude": "176.872087",
+                "suburb": "Westshore",
+                "city": "Napier",
+                "address": "111 Main North Road, Westshore, Napier 4110"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070F0AAI",
+            "eventName": "AirGo Convenience Auckland Domestic Airport",
+            "startDateTime": "2022-01-22T04:00:00.000Z",
+            "endDateTime": "2022-01-22T04:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T02:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.006577",
+                "longitude": "174.790936",
+                "suburb": "Auckland Airport",
+                "city": "Auckland",
+                "address": "2 Andrew McKee Avenue, Auckland Airport, Auckland 2022"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070GNAAY",
+            "eventName": "Mexico Hamilton Central",
+            "startDateTime": "2022-01-22T00:00:00.000Z",
+            "endDateTime": "2022-01-22T01:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.788212",
+                "longitude": "175.284191",
+                "suburb": "Hamilton Central",
+                "city": "Hamilton",
+                "address": "254 Victoria Street, Hamilton Central, Hamilton 3204"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070FPAAY",
+            "eventName": "Elixir Espresso Middlemore Hospital",
+            "startDateTime": "2022-01-26T00:30:00.000Z",
+            "endDateTime": "2022-01-26T01:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-27T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.963977",
+                "longitude": "174.840341",
+                "suburb": "Mangere East",
+                "city": "Auckland",
+                "address": "100 Hospital Road, Mangere East, Auckland 2025"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070I0AAI",
+            "eventName": "Christchurch Airport Harewood",
+            "startDateTime": "2022-01-26T03:30:00.000Z",
+            "endDateTime": "2022-01-26T04:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-43.488372",
+                "longitude": "172.540231",
+                "suburb": "Christchurch Airport",
+                "city": "Christchurch",
+                "address": "30 Durey Road, Christchurch Airport, Christchurch 8053"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070LrAAI",
+            "eventName": "Polo in the Bay Mount Maunganui *GENERAL ADMISSION AREA POLO LOUNGE BAR PATRONS*",
+            "startDateTime": "2022-01-22T01:00:00.000Z",
+            "endDateTime": "2022-01-22T03:00:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-27T23:45:00.000Z",
+            "updatedAt": "2022-01-28T05:00:00.000Z",
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-37.684955",
+                "longitude": "176.227856",
+                "suburb": "RD 5",
+                "city": "Tauranga",
+                "address": "81 Truman Lane, RD 5, Tauranga 3175"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070SJAAY",
+            "eventName": "The Fruit and Vege Warehouse Whangarei",
+            "startDateTime": "2022-01-26T03:54:44.000Z",
+            "endDateTime": "2022-01-26T04:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-35.728706",
+                "longitude": "174.31516",
+                "suburb": "Avenues",
+                "city": "Whangarei",
+                "address": "28 Maunu Road, Avenues, Whangarei 0110"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070UjAAI",
+            "eventName": "Sushi Tomi Milford",
+            "startDateTime": "2022-01-20T01:18:59.000Z",
+            "endDateTime": "2022-01-20T02:18:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-28T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.771772",
+                "longitude": "174.766546",
+                "suburb": "Milford",
+                "city": "Auckland",
+                "address": "24 Milford Road, Milford, Auckland 0620"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070YWAAY",
+            "eventName": "South Gate Hair and Beauty Takanini",
+            "startDateTime": "2022-01-24T22:00:00.000Z",
+            "endDateTime": "2022-01-25T01:45:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-28T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-37.049256",
+                "longitude": "174.928387",
+                "suburb": "Takanini",
+                "city": "Auckland",
+                "address": "230 Great South Road, Takanini, Auckland 2112"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070ahAAA",
+            "eventName": "Flight JQ259 Auckland to Wellington",
+            "startDateTime": "2022-01-22T21:30:00.000Z",
+            "endDateTime": "2022-01-22T22:35:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-29T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "",
+                "longitude": "",
+                "suburb": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        {
+            "eventId": "a0l4a00000070aIAAQ",
+            "eventName": "Kmart Manukau",
+            "startDateTime": "2022-01-24T06:50:49.000Z",
+            "endDateTime": "2022-01-24T08:20:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.993007",
+                "longitude": "174.872682",
+                "suburb": "Manukau",
+                "city": "Auckland",
+                "address": "55 Lambie Drive, Manukau, Auckland 2104"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070jAAAQ",
+            "eventName": "Indian Bar & Eatery Papakura",
+            "startDateTime": "2022-01-23T07:30:00.000Z",
+            "endDateTime": "2022-01-23T08:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T23:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.058281",
+                "longitude": "174.940181",
+                "suburb": "Papakura",
+                "city": "Auckland",
+                "address": "84 Great South Road, Papakura, Auckland 2110"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070LDAAY",
+            "eventName": "Arena Summer Soccer Central Energy Trust Arena Palmerston North",
+            "startDateTime": "2022-01-25T06:20:00.000Z",
+            "endDateTime": "2022-01-25T07:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T02:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.355974",
+                "longitude": "175.600585",
+                "suburb": "",
+                "city": "Palmerston North",
+                "address": "61 Pascal Street, Palmerston North 4410"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070LNAAY",
+            "eventName": "Arena Summer Soccer Central Energy Trust Arena Palmerston North",
+            "startDateTime": "2022-01-26T05:30:00.000Z",
+            "endDateTime": "2022-01-26T06:10:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T02:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-40.355974",
+                "longitude": "175.600585",
+                "suburb": "",
+                "city": "Palmerston North",
+                "address": "61 Pascal Street, Palmerston North 4410"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070MuAAI",
+            "eventName": "Shri Ram Temple *LEVELS 1 & 3*",
+            "startDateTime": "2022-01-21T06:30:00.000Z",
+            "endDateTime": "2022-01-21T09:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T01:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.866658",
+                "longitude": "174.613261",
+                "suburb": "Henderson",
+                "city": "Auckland",
+                "address": "11 Brick Street, Henderson, Auckland 0610"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070RfAAI",
+            "eventName": "The Warehouse Whangarei",
+            "startDateTime": "2022-01-24T00:42:24.000Z",
+            "endDateTime": "2022-01-24T01:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T02:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-35.730416",
+                "longitude": "174.330262",
+                "suburb": "Whangarei",
+                "city": "Whangarei",
+                "address": "42 Port Road, Whangarei, Whangarei 0110"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070S4AAI",
+            "eventName": "McDonald's Hastings",
+            "startDateTime": "2022-01-25T23:00:00.000Z",
+            "endDateTime": "2022-01-25T23:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T02:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-39.636123",
+                "longitude": "176.83682",
+                "suburb": "Saint Leonards",
+                "city": "Hastings",
+                "address": "626 Heretaunga Street West, Saint Leonards, Hastings 4120"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070RaAAI",
+            "eventName": "Michael Hill Jewellers Whangarei",
+            "startDateTime": "2022-01-23T23:16:53.000Z",
+            "endDateTime": "2022-01-23T23:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-35.725438",
+                "longitude": "174.320307",
+                "suburb": "",
+                "city": "Whangarei",
+                "address": "41 Cameron Street, Whangarei 0110"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070UAAAY",
+            "eventName": "Polo in the Bay Mount Maunganui *GOOD GEORGE GIN CARAVAN*",
+            "startDateTime": "2022-01-22T01:00:00.000Z",
+            "endDateTime": "2022-01-22T03:30:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-28T03:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-37.684955",
+                "longitude": "176.227856",
+                "suburb": "RD 5",
+                "city": "Tauranga",
+                "address": "81 Truman Lane, RD 5, Tauranga 3175"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070VrAAI",
+            "eventName": "Papatoetoe Centennial Pool and Leisure Centre",
+            "startDateTime": "2022-01-23T21:00:00.000Z",
+            "endDateTime": "2022-01-23T23:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T04:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-37.057186",
+                "longitude": "174.960124",
+                "suburb": "Papatoetoe",
+                "city": "Papakura",
+                "address": "17 Sutton Crescent, Papatoetoe, Papakura 2110"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070a8AAA",
+            "eventName": "Learning Network NZ Henderson",
+            "startDateTime": "2022-01-26T19:45:00.000Z",
+            "endDateTime": "2022-01-27T00:00:00.000Z",
+            "publicAdvice": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.",
+            "visibleInWebform": true,
+            "publishedAt": "2022-01-29T00:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.856864",
+                "longitude": "174.633543",
+                "suburb": "Henderson",
+                "city": "Auckland",
+                "address": "214 Universal Drive, Henderson, Auckland 0610"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070buAAA",
+            "eventName": "Island Gelato Company Waiheke Island",
+            "startDateTime": "2022-01-25T21:30:00.000Z",
+            "endDateTime": "2022-01-25T22:30:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.78183",
+                "longitude": "175.007736",
+                "suburb": "Oneroa",
+                "city": "Waiheke Island",
+                "address": "106 Ocean View Road, Oneroa, Waiheke Island 1081"
+            }
+        },
+        {
+            "eventId": "a0l4a00000070ZtAAI",
+            "eventName": "Island Gelato Company Waiheke Island",
+            "startDateTime": "2022-01-23T18:20:00.000Z",
+            "endDateTime": "2022-01-24T00:00:00.000Z",
+            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-01-28T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Casual",
+            "location": {
+                "latitude": "-36.78183",
+                "longitude": "175.007736",
+                "suburb": "Oneroa",
+                "city": "Waiheke Island",
+                "address": "106 Ocean View Road, Oneroa, Waiheke Island 1081"
+            }
+        }
+    ]
+}
