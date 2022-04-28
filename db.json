@@ -270,24 +270,6 @@
             }
         },
         {
-            "eventId": "a0l4a0000006txQAAQ",
-            "eventName": "HOYTS Cinema TE AWA Hamilton",
-            "startDateTime": "2022-01-15T21:30:00.000Z",
-            "endDateTime": "2022-01-16T00:30:00.000Z",
-            "publicAdvice": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
-            "visibleInWebform": false,
-            "publishedAt": "2022-01-18T01:00:00.000Z",
-            "updatedAt": null,
-            "exposureType": "Casual",
-            "location": {
-                "latitude": "",
-                "longitude": "",
-                "suburb": "",
-                "city": "Hamilton",
-                "address": "Te Rapa Road & Wairere Drive, Hamilton 3200"
-            }
-        },
-        {
             "eventId": "a0l4a0000006ueVAAQ",
             "eventName": "Greenview Motel Rotorua",
             "startDateTime": "2022-01-14T18:00:00.000Z",
