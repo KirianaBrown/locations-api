@@ -3364,6 +3364,204 @@
                 "city": "Waiheke Island",
                 "address": "106 Ocean View Road, Oneroa, Waiheke Island 1081"
             }
+        },
+        {
+            "eventId": "a0l4a0000007gk7AAA",
+            "eventName": "Protest at Parliament",
+            "startDateTime": "2022-02-19T18:20:00.000Z",
+            "endDateTime": "2022-02-19T00:00:00.000Z",
+            "publicAdvice": "UPDATE: Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-02-20T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-41.279094058775975",
+                "longitude": "174.776530957338309",
+                "suburb": "Central",
+                "city": "Wellington",
+                "address": "25 Bowen Street, Wellington Central, Wellington 6011"
+            }
+        },
+        {
+            "eventId": "a0l4a0000007gmbAAA",
+            "eventName": "Protest at Parliament",
+            "startDateTime": "2022-02-20T18:20:00.000Z",
+            "endDateTime": "2022-02-20T00:00:00.000Z",
+            "publicAdvice": "UPDATE: Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-02-21T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-41.279094058775975",
+                "longitude": "174.776530957338309",
+                "suburb": "Central",
+                "city": "Wellington",
+                "address": "25 Bowen Street, Wellington Central, Wellington 6011"
+            }
+        },
+        {
+            "eventId": "a0l4a0000007imvAAA",
+            "eventName": "Saint John's Presbyterian Church",
+            "startDateTime": "2022-02-20T18:20:00.000Z",
+            "endDateTime": "2022-02-20T00:00:00.000Z",
+            "publicAdvice": "UPDATE: Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-02-24T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-39.588289",
+                "longitude": "174.278555",
+                "suburb": "Central",
+                "city": "Hawera",
+                "address": "251 High Street, Hawera 4610"
+            }
+        },
+        {
+            "eventId": "a0l4a0000007iwtAAA",
+            "eventName": "Lone Star Cafe & Bar",
+            "startDateTime": "2022-02-19T18:20:00.000Z",
+            "endDateTime": "2022-02-19T00:00:00.000Z",
+            "publicAdvice": "UPDATE: Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-02-24T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-38.66953044",
+                "longitude": "178.0295473",
+                "suburb": "Central",
+                "city": "Gisborne",
+                "address": "60 The Esplanade, Inner Kaiti, Gisborne 4010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000007XLoAAM",
+            "eventName": "Roxy Auckland CBD",
+            "startDateTime": "2022-02-21T18:20:00.000Z",
+            "endDateTime": "2022-02-21T00:00:00.000Z",
+            "publicAdvice": "UPDATE: Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-02-25T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.845679",
+                "longitude": "174.767069",
+                "suburb": "Central",
+                "city": "Auckland",
+                "address": "7 Fort Lane, Auckland Central, Auckland 1010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000007Xe2AAE",
+            "eventName": "Ellice Road Social Lounge Auckland CBD",
+            "startDateTime": "2022-02-18T18:20:00.000Z",
+            "endDateTime": "2022-02-18T00:00:00.000Z",
+            "publicAdvice": "UPDATE: Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-02-25T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.845679",
+                "longitude": "174.767069",
+                "suburb": "Central",
+                "city": "Auckland",
+                "address": "57 Albert Street, Auckland CBD, Auckland 1010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000007gb4AAA",
+            "eventName": "Emergency Department Waiting Room Palmerston North Hospital",
+            "startDateTime": "2022-02-22T18:20:00.000Z",
+            "endDateTime": "2022-02-22T00:00:00.000Z",
+            "publicAdvice": "UPDATE: Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-02-25T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-40.33873",
+                "longitude": "175.621139",
+                "suburb": "Central",
+                "city": "Palmerston North",
+                "address": "50 Ruahine Street, Roslyn, Palmerston North 4414"
+            }
+        },
+        {
+            "eventId": "a0l4a0000007PcqAAE",
+            "eventName": "Saturday's Britomart Auckland",
+            "startDateTime": "2022-02-19T18:20:00.000Z",
+            "endDateTime": "2022-02-19T00:00:00.000Z",
+            "publicAdvice": "UPDATE: Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-02-25T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.845334989809764",
+                "longitude": "174.769807925336352",
+                "suburb": "Central",
+                "city": "Auckland",
+                "address": "48 Customs Street East, Auckland Central, Auckland 1010"
+            }
+        },
+        {
+            "eventId": "a0l4a0000007RX9AAM",
+            "eventName": "Amberley Fitness Centre",
+            "startDateTime": "2022-02-17T18:20:00.000Z",
+            "endDateTime": "2022-02-17T00:00:00.000Z",
+            "publicAdvice": "UPDATE: Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-02-25T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-43.153028",
+                "longitude": "172.731211",
+                "suburb": "Central",
+                "city": "Amberley",
+                "address": "10 Anderson Street, Amberley 7410"
+            }
+        },
+        {
+            "eventId": "a0l4a0000007S2bAAE",
+            "eventName": "Subway Whanganui",
+            "startDateTime": "2022-02-17T18:20:00.000Z",
+            "endDateTime": "2022-02-17T00:00:00.000Z",
+            "publicAdvice": "UPDATE: Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-02-21T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-39.925541",
+                "longitude": "175.039973",
+                "suburb": "Central",
+                "city": "Whanganui",
+                "address": "396 Victoria Avenue, Whanganui 4500"
+            }
+        },
+        {
+            "eventId": "a0l4a0000007NGXAA2",
+            "eventName": "Groove Bar Kingsland",
+            "startDateTime": "2022-02-16T18:20:00.000Z",
+            "endDateTime": "2022-02-16T00:00:00.000Z",
+            "publicAdvice": "UPDATE: Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "visibleInWebform": false,
+            "publishedAt": "2022-02-18T05:00:00.000Z",
+            "updatedAt": null,
+            "exposureType": "Close",
+            "location": {
+                "latitude": "-36.872017",
+                "longitude": "174.744248",
+                "suburb": "Central",
+                "city": "Auckland",
+                "address": "487 New North Road, Kingsland, Auckland 1021"
+            }
         }
     ]
 }
